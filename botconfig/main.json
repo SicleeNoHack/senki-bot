@@ -1,0 +1,26 @@
+{
+  "clienttoken": "ODQyNzk5NzM4MDc5MjgxMTcz.YJ6kbA.PiP0COqFgZ72TTDC6mXt4yU8Dzg",
+
+  "Note_Token:":"Put Your Bot Token Above (If your using replit then make a new secret 'clienttoken' and put ur bot token there... and then keep this string empty)",
+
+  "clientname": "Senki",
+
+  "clientid": "842799738079281173",
+
+  "TestingServerID": "904746596133117983",
+
+  "clientavatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOfQ_Mry9O3XF-v92UqhdvpUhkqEsLt73uo8ADhnYH6rmAzy6uyeq8WRrBR-4HY8qLux8&usqp=CAU",
+
+  "prefix": "-",
+
+  "developerID": ["552505356345933876"],
+
+  "colorthemecode":"#FF5733 (Not Neccessary.)",
+  
+  "randomMessages_Cooldown": ["Slow It Down Fam...", "Spam Isn't Cool Fam....", "Get Premium dude...", "Never Gonna Let You Down","Subscribe To DrakeZee lol"],
+
+
+  "NOTE:" : "IF YOU DONT PUT STUFF HERE IT WILL THROW ERRS"
+}
+
+
